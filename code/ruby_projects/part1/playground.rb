@@ -10,3 +10,5 @@ puts "Welcome to the playground! #{first_name} #{last_name}"
 
 puts "The length of your first name is #{first_name.length}"
 puts first_name.reverse
+
+puts "playground"
